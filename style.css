@@ -37,3 +37,6 @@ body {
     width: 50%;
     border: solid 2px rgb(230, 137, 137);
 }
+image-container__c1:hover{
+    width: 250px;
+}
